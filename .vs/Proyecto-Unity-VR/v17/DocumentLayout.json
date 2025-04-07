@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4782A-5FD7-C542-F648-043199AFC5F1}|Assembly-CSharp.csproj|d:\\anfeca\\projecto v1\\proyecto-unity-vr\\assets\\fondorotativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D4782A-5FD7-C542-F648-043199AFC5F1}|Assembly-CSharp.csproj|solutionrelative:assets\\fondorotativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fondorotativo.cs",
+              "DocumentMoniker": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\Assets\\fondorotativo.cs",
+              "RelativeDocumentMoniker": "Assets\\fondorotativo.cs",
+              "ToolTip": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\Assets\\fondorotativo.cs",
+              "RelativeToolTip": "Assets\\fondorotativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:58:28.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

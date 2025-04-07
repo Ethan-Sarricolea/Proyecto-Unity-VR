@@ -1,5 +1,10 @@
+/**
+ * Codigo para mantener "animado" (rotando)
+ *      El skybox
+*/
+
 using System.Collections;
-using System.Collection.Generic;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class fondorotativo : MonoBehaviour
@@ -11,7 +16,7 @@ public class fondorotativo : MonoBehaviour
     }
 
     void Update(){
-        RenderSettings.skybox.Setfloat("_Rotation", Time.time*rotacion);
+        RenderSettings.skybox.SetFloat("_Rotation", Time.time*rotacion);
     }
 
 }
