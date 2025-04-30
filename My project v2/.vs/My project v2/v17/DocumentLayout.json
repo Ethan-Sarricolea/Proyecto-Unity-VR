@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\My project v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AED8D9B-70F4-4877-4F67-62CEF1B262B5}|Assembly-CSharp.csproj|d:\\anfeca\\projecto v1\\proyecto-unity-vr\\my project v2\\assets\\skybox\\logicarotacionskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AED8D9B-70F4-4877-4F67-62CEF1B262B5}|Assembly-CSharp.csproj|solutionrelative:assets\\skybox\\logicarotacionskybox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogicaRotacionSkybox.cs",
+              "DocumentMoniker": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\My project v2\\Assets\\Skybox\\LogicaRotacionSkybox.cs",
+              "RelativeDocumentMoniker": "Assets\\Skybox\\LogicaRotacionSkybox.cs",
+              "ToolTip": "D:\\anfeca\\Projecto v1\\Proyecto-Unity-VR\\My project v2\\Assets\\Skybox\\LogicaRotacionSkybox.cs",
+              "RelativeToolTip": "Assets\\Skybox\\LogicaRotacionSkybox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:21:27.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
